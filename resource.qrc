@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/skin.css</file>
+        <file>images/fontawesome-webfont.ttf</file>
+        <file>images/sd_logo.png</file>
+        <file>images/home_logo.png</file>
+    </qresource>
+</RCC>
